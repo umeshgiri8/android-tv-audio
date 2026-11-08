@@ -1,0 +1,6 @@
+{
+  "name": "Audio Booster TV",
+  "description": "Native system audio amplifier and loudness enhancer for Android TV and TV boxes with D-pad control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
